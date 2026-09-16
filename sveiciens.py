@@ -1,1 +1,1 @@
-print("Diena ir laba  ")
+print("ir OTRADIENA  ")
