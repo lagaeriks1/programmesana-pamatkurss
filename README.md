@@ -6,6 +6,9 @@ tajā tiek izmantots Markdown formatējums, piemēram, virsraksti, saraksti un s
 = "5" ir str
 b = 5 ir int
 c = 5.5 ir float
+Kļūda radās 10 rindā
+Bija Value error 
+Vajag punktu nevis komatu jo kods nevar parveidot float uz str
 
 # Programmēšana - pamatkurss
 Autors:**Ēriks Laganovskis**
