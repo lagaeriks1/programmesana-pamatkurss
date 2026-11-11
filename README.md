@@ -16,6 +16,7 @@ Rezultāti ir loģiski
 ValueError: invalid literal for int() with base 10:
 ValueError: could not convert string to float: 'abc'
 bīstamāka ievade ir hp, jo no tās var nojukt pārējās
+labs mainīgā vārds ir nepieciešams lai labi saprastu kas tas ir.
 
 
 # Programmēšana - pamatkurss
